@@ -236,14 +236,14 @@ class GoodsController extends \yii\web\Controller
 
         ];
     }
-    public function behaviors()
+   /* public function behaviors()
     {
         return [
             'accessfilter'=>[
                 'class'=>AccessFilter::className(),
             ],
         ];
-    }
+    }*/
 
 
 }
